@@ -146,11 +146,6 @@ footer {
 
 /* SCREEN SIZING CODE */
 @media (max-width: 800px){
-    nav .div {
-        display: flex;
-        flex-direction: column;
-    }
-    
     .innovation-img {
         display: none;
     }

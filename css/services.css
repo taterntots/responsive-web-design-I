@@ -180,10 +180,6 @@ footer {
     .logo2 {
         display: none;
     }
-
-    .services-info-img {
-        width: 100%;
-    }
 }
 
 @media (max-width: 500px){

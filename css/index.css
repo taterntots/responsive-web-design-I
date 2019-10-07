@@ -193,6 +193,10 @@ footer {
         padding-bottom: 10%;
     }
 
+    .i-text {
+        font-size: 60px;
+    }
+
     .main-text {
         flex-direction: column;
     }

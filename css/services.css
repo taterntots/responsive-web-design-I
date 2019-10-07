@@ -208,6 +208,10 @@ footer {
         display: none;
     }
 
+    .mainBody {
+        flex-direction: column;
+    }
+
     .facts {
         display: flex;
         flex-direction: column;
@@ -224,8 +228,7 @@ footer {
     }
     
     .services-info-img {
-        /* display: block; */
         margin: 0% auto;
-        /* text-align: center; */
+        padding-top: 5%;
     }
 }
